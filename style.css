@@ -1,0 +1,104 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    
+}
+h2{
+    font-size: 40px;
+}
+.head{
+    border-left: 5px solid red;
+}
+.photo{
+    margin-top: 50px;
+    margin-left: 20%;
+}
+
+.topp{
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.Full{
+    width: 50%;
+    padding-left: 5%;
+}
+.Full img{
+    width: 60%;
+}
+.orange{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font weight: 700;
+    border-radius: 10px;
+}
+.mission{
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px white;
+    border-left: 10px;
+}
+.missi{
+    background-color: yellowgreen;
+}
+.vission{
+    background-color: skyblue;
+}
+.goals{
+    background-color: cyan;
+}
+.misssion{
+    text-align: center;
+}
+.img{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.topp{
+    background-repeat: no-repeat;
+}
+.flex1 {
+    display: flex;
+  }
+
+  .background {
+    background-color: gray;
+    margin: 0 3%;
+  }
+.text{
+    background-color: black;
+    text-align: center;
+    background-position: 100%;
+}
+.footer{
+    color: brown;
+}
+.color{
+    color: white;
+}
+.net{
+    color: mediumblue;
+}
+.clr{
+    color: white;
+    
+}
